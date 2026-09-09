@@ -1,1 +1,1 @@
-print ("Nova funcionalidade em densevolvimento") 
+print("Alteracao feita diretamente no GitHub")
