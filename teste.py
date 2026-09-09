@@ -1,1 +1,1 @@
-print("Alteracao feita diretamente no GitHub")
+print("Altera‡ao feita no computador") 
