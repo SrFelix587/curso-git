@@ -1,1 +1,1 @@
-print("Altera‡ao feita no computador") 
+print ("Versao final resolvida") 
